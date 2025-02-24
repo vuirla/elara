@@ -23,3 +23,7 @@ elara currently supports the following roblox games:
 - **fiesta**: 15294433552
 - **fervent**: 11839008453
 - **kanjis**: 3457890872
+
+## invite
+
+https://discord.com/oauth2/authorize?client_id=1343437680876322847&permissions=8&integration_type=0&scope=applications.commands+bot
